@@ -8,8 +8,8 @@ public class HelloWorld {
 	}
 	
 	public static int returnOne() {
-		return 1;
+		return 1malla;
 		//System.out.println("This is a print function");
 	}
-
+// malla new line
 }
